@@ -32,11 +32,11 @@ The data set given to us is in the .json format and contains 78,313 customer com
  
 ## Tasks performed 
 The following steps have been performed :
-Data loading
-Text preprocessing
-Exploratory data analysis (EDA)
-Feature extraction
-Topic modelling 
-Model building using supervised learning
-Model training and evaluation
+Data loading, 
+Text preprocessing, 
+Exploratory data analysis (EDA), 
+Feature extraction, 
+Topic modelling, 
+Model building using supervised learning, 
+Model training and evaluation, 
 Model inference
